@@ -1,0 +1,7 @@
+Spark is a simple Qt like GUI toolkit with support for
+signal and slot system implemented entirely using
+variadic template arguments feature in C++011.
+
+Spark uses cairo as its graphics backend.
+
+Currently works only on X11.
